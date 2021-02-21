@@ -1,0 +1,3 @@
+PI = 3.14159
+WEEK_DAY = 7
+print (PI, WEEK_DAY)
